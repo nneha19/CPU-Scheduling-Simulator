@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator (C++)
+# CPUSched++ - CPU Scheduling Simulator (C++)
 
 A console-based C++ project that simulates key **CPU scheduling algorithms**:  
 - FCFS (First-Come, First-Served)  
@@ -7,6 +7,7 @@ A console-based C++ project that simulates key **CPU scheduling algorithms**:
 - Priority Scheduling  
 
 Built from scratch using core C++ concepts like **vectors, sorting, conditionals**, and **process struct modeling**, this tool visualizes execution order, timing metrics, and Gantt charts — mimicking how a real CPU scheduler functions.
+<img width="1048" height="609" alt="image" src="https://github.com/user-attachments/assets/3e11a047-75ee-4ab2-a6b4-d6868406a2de" />
 
 
 <br/>
