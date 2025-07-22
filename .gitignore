@@ -1,0 +1,32 @@
+# Build and object files
+*.o
+*.obj
+*.exe
+*.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio / Code::Blocks / CLion
+*.sln
+*.vcxproj*
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.idea/
+*.cbp
+
+# Backup files
+*~
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other user-specific settings
+.vscode/
